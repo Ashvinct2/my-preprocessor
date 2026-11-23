@@ -120,3 +120,17 @@ gcc -x c sample.c.i -o test
 Ashvin CT
 
 Vector India – Batch ID: V26BE3A8
+
+## Project Screenshots
+
+### 1. Preprocessing
+
+![Preprocessing](screenshots/preprocessing.png)
+
+### 2. Compilation
+
+![Compilation](screenshots/compilation.png)
+
+### 3. Final Execution
+
+![Execution](screenshots/execution.png)

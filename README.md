@@ -3,9 +3,7 @@
 ## Project Description
 
 MY PREPROCESSOR is a basic C preprocessor developed using C programming.
-
 The main objective of this project is to understand how preprocessing works before the compilation of a C program.
-
 The program accepts a C source file as input and generates a preprocessed output file with the `.i` extension.
 
 ## Features
@@ -121,4 +119,4 @@ gcc -x c sample.c.i -o test
 
 Ashvin CT
 
-Electronics and Communication Engineering
+Vector India – Batch ID: V26BE3A8

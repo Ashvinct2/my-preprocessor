@@ -125,12 +125,12 @@ Vector India – Batch ID: V26BE3A8
 
 ### 1. Preprocessing
 
-![Preprocessing](screenshots/Screenshot%201%20%E2%80%93%20Preprocessing.png)
+![Preprocessing](preprocessing.png)
 
 ### 2. Compilation
 
-![Compilation](screenshots/Screenshot%202%20%E2%80%93%20Compilation.png)
+![Compilation](compilation.png)
 
 ### 3. Final Execution
 
-![Execution](screenshots/Screenshot%203%20%E2%80%93%20Final%20execution.png)
+![Execution](execution.png)

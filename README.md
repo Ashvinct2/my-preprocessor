@@ -122,15 +122,8 @@ Ashvin CT
 Vector India – Batch ID: V26BE3A8
 
 ## Project Screenshots
+![Preprocessing](screenshots/Preprocessing.png)
 
-### 1. Preprocessing
+![Compilation](screenshots/Compilation.png)
 
-![Preprocessing](Preprocessing.png)
-
-### 2. Compilation
-
-![Compilation](Compilation.png)
-
-### 3. Final Execution
-
-![Final Execution](Final%20execution.png)
+![Final Execution](screenshots/Final%20execution.png)
